@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="revslider">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wp-content/themes/mipro/inc/import/import-file/revslider/slide-3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/wp-content/themes/mipro/inc/import/import-file/revslider/home7.zip!/" />
+      <root url="jar://$PROJECT_DIR$/wp-content/themes/mipro/inc/import/import-file/revslider/home-5.zip!/" />
+      <root url="jar://$PROJECT_DIR$/wp-content/themes/mipro/inc/import/import-file/revslider/home-8.zip!/" />
+      <root url="jar://$PROJECT_DIR$/wp-content/themes/mipro/inc/import/import-file/revslider/home6-v2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
